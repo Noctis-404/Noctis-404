@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://tenor.com/search/coding-gifs"/>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 * 🔭 Currently mastering **Data Structures & Algorithms**
 * 🌱 Learning **JavaScript, Node.js, and Problem Solving**
@@ -140,10 +140,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=120&section=footer"/>
 </p>
-
----
-
----
-
-⭐ *Always learning. Always building.*
 
