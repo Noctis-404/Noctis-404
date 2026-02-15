@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="coding" width="320" src="https://tenor.com/search/coding-gifs"/>
 
 * 🔭 Currently mastering **Data Structures & Algorithms**
 * 🌱 Learning **JavaScript, Node.js, and Problem Solving**
