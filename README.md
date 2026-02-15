@@ -59,11 +59,6 @@
 
 ---
 
-## 📫 Connect With Me
-
-* Add your LinkedIn here later
-* Add your portfolio here (when built)
-
 ---
 
 ⭐ *Always learning. Always building.*
