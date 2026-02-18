@@ -87,6 +87,8 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Noctis-404&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-astronaut.webp"
+  
 </p>
 
 ---
