@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
+<img align="right" alt="coding" width="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
 
 * 🔭 Currently mastering **Data Structures & Algorithms**
 * 🌱 Learning **JavaScript, Node.js, and Problem Solving**
