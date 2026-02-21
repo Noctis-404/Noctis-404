@@ -125,7 +125,7 @@ Refuses to elaborate
 ## 🧩 Contribution Graph = Mood Tracker
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noctis-404&theme=tokyo-night" />
 </p>
 
 ---
