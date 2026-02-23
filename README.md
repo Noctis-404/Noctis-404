@@ -86,7 +86,8 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Noctis-404&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="<img width="1223" height="379" alt="Screenshot 2026-02-23 at 11 27 41" src="https://github.com/user-attachments/assets/93c66108-0384-4f83-84d6-7b297f13268b" />
+"/>
 </p>
 
 ---
